@@ -10,5 +10,5 @@
 > - Practice makes perfect
 
 
- ![](https://lifeglobe.net/x/entry/0/1-95.jpg)
+ ![](https://www.bogorwebsite.com/assets/images/services/c6d43fc4cb1c75dbd7baab29a25a4cc5.jpg)
 
