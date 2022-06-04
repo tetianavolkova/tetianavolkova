@@ -10,5 +10,5 @@
 > - Practice makes perfect
 
 
- ![](https://www.bogorwebsite.com/assets/images/services/c6d43fc4cb1c75dbd7baab29a25a4cc5.jpg)
+ ![](https://static.tildacdn.com/tild3065-3165-4163-a531-356561393937/Software-Testing-Ghe.jpg)
 
