@@ -10,5 +10,5 @@
 > - Practice makes perfect
 
 
- ![](https://static.tildacdn.com/tild3065-3165-4163-a531-356561393937/Software-Testing-Ghe.jpg)
+ <img src="https://static.tildacdn.com/tild3065-3165-4163-a531-356561393937/Software-Testing-Ghe.jpg" width="450" height="250" />
 
