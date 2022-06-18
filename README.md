@@ -1,4 +1,4 @@
-### Hi there 👋 my name is [Tetiana Volkova](https://www.linkedin.com/in/tetianavolkova/), I'm QA Engineer from Ukraine 🐛
+### Hi there 👋 my name is [Tetiana Volkova](https://www.linkedin.com/in/tetianavolkova/), I am a QA Manual and Automation Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 
 ### About me
 - 🔭 I’m currently working on interesting project
